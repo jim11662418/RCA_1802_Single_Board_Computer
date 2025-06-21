@@ -16,5 +16,5 @@ Homebrew copy of 'Spare Time Gizmos' 'Embedded Elf' 1802 Single Board Computer a
 <p align="center"><img src="/images/Embedded Elf SBC ATF16V8.png"/>
 <p align="center">Embedded Elf SBC ATF16V8</p><br>
 
-<p align="center"><img src="/images/Embedded El.png"/>
+<p align="center"><img src="/images/Embedded Elf.png"/>
 <p align="center">Embedded Elf SBC</p><br>
